@@ -6,4 +6,4 @@ I studied cs and math at UC Berkeley. I work in machine learning.
 - hobbies: product & software design, philosophy
 - websites: [official](https://wensenwu.com) | [terminal](https://cveinnt.com)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cveinnt&count_private=false&show_icons=true&hide_border=true&theme=tokyonight" alt="cveinnt" />
+// <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cveinnt&count_private=false&show_icons=true&hide_border=true&theme=tokyonight" alt="cveinnt" />
